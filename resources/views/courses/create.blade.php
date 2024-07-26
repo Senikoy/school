@@ -5,7 +5,7 @@
         <div class="container-fluid px-4">
             <h1 class="mt-4">Create Course</h1>
             <ol class="breadcrumb mb-4">
-                <li class="breadcrumb-item active">Fill Details</li>   
+                <li class="breadcrumb-item active">Fill Details</li>
             </ol>
             <div class="card">
                     @if ($errors->any())

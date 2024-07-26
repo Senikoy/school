@@ -40,7 +40,6 @@
                                                 this.closest('form').submit();">
                                     Logout</a>
                             </li>
-                           
                         </form>
                     </ul>
                 </li>
